@@ -1,45 +1,45 @@
-Simon Says Game 🎮
+# 🎮 Simon Says Game  
 
-This is a practice project built using HTML, CSS, and JavaScript.
-It showcases my basic JavaScript skills like DOM manipulation, event handling, arrays, and simple game logic.
+A simple and interactive memory-based game built with **HTML, CSS, and JavaScript**.  
+This project showcases my basic JavaScript skills including **DOM manipulation, event handling, arrays, and simple game logic**.  
 
-🚀 Features
+---
 
-Simple and interactive memory game.
+## 🚀 Features
+-  Clean and interactive UI  
+-  Random sequences to challenge the player  
+-  Visual feedback for correct moves  
+-  Alerts on wrong moves  
+-  Keeps track of levels (score)  
+-  Easy restart on game over  
 
-Uses random sequences to challenge the player.
+---
 
-Provides visual feedback on correct and wrong moves.
+## 🛠️ Tech Stack
+- **HTML** → Structure of the game  
+- **CSS** → Styling for buttons and layout  
+- **JavaScript** → Game logic and interactivity  
 
-Keeps track of levels (score).
+---
 
-Easy restart on game over.
+## 📂 Project Files
+├── index.html # Main HTML file
+├── styles.css # Styling file
+├── app.js # Game logic in JavaScript
 
-🛠️ Tech Stack
+---
 
-HTML – structure of the game
+## 🎮 How to Play
+1. Press any key to start the game.  
+2. Watch the sequence of button flashes carefully.  
+3. Click the buttons in the **same order**.  
+4. Each new level adds **one more step** to the sequence.  
+5. The game ends if you make a mistake — your final score is shown.  
 
-CSS – styling for buttons and layout
+---
 
-JavaScript – logic for gameplay
+## 📌 Note
+This is a **beginner-friendly practice project** built to learn and demonstrate core **JavaScript concepts**.  
 
-📂 Project Files
-├── index.html   # Main HTML file
-├── styles.css   # Styling file
-├── app.js       # Game logic in JavaScript
 
-🎮 How to Play
 
-Press any key to start the game.
-
-Watch the sequence of flashes carefully.
-
-Click the buttons in the same order.
-
-Each level adds a new step to the sequence.
-
-Game ends when you make a mistake — your score is shown.
-
-📌 Note
-
-This is a beginner-friendly practice project I built to learn and demonstrate my understanding of basic JavaScript concepts.
